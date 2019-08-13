@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <h1>Reducer Todo</h1>
       <Todo />
+      
     </div>
   );
 }
