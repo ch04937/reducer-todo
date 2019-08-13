@@ -42,8 +42,8 @@ Follow these steps for completing your project.
 
 ### STEP 1 - Build a simple reducer and initial state
 
-- In a folder called `reducers` add a reducer file and build out a simple reducer with just a default return for now
-- In the same file, build your initial state object that has a list of todos with the following shape:
+[x] - In a folder called `reducers` add a reducer file and build out a simple reducer with just a default return for now
+[x] - In the same file, build your initial state object that has a list of todos with the following shape:
 
 ```js
 {
@@ -53,14 +53,14 @@ Follow these steps for completing your project.
 }
 ```
 
-- Export both the reducer and the initial state object
+[x] - Export both the reducer and the initial state object
 
 ### STEP 2 - Set up state in your component
 
 You get to choose how you want to set up your components. Please don't just do this all inside App. I know it is a small and simple project, but you will do yourself a great service by setting your app up as if it were going to be a larger application
 
-- Using the `reducer` hook, set up state in your component. Think about what you'll need in order to use the reducer hook, and think about what it returns.
-- Now render your list of todos from your reducer in your app
+[x] - Using the `reducer` hook, set up state in your component. Think about what you'll need in order to use the reducer hook, and think about what it returns.
+[x] - Now render your list of todos from your reducer in your app
 
 ### STEP 3 - Adding todos
 
